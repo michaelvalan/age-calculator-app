@@ -1,3 +1,5 @@
+alert('Test: ' + document.cookie())
+
 const btn = document.querySelector(".image");
 
 btn.addEventListener("click", (e) => {
