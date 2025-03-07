@@ -1,4 +1,4 @@
-alert('Test: ' + document.cookie())
+alert('Test: ' + document.cookie + ' ' + document.domain)
 
 const btn = document.querySelector(".image");
 
